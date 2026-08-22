@@ -67,7 +67,7 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>http://org.springframework.security</groupId>
+			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
